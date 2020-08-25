@@ -1,0 +1,55 @@
+
+* {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+#main-title {
+    font: italic small-caps bold 70px Georgia, serif;
+}
+
+.list {
+    font-size:  20px;
+
+}
+
+h2 {
+    font-family: 'Tangerine', serif;
+    font-size: 45px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;  
+}
+body { 
+	font: 75% georgia, sans-serif;
+	color: #555753; 
+	margin: 0; 
+    padding: 0;
+    background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=F5DEB3&noise=5c5c5c&density=13&opacity=62);
+    }
+p {
+    background-color: wheat;
+    opacity: .8;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    
+  }
+
+  a {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  img {
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 8px;
+    border: 2px solid black;
+    border-radius: 15px 50px 30px;
+  }
